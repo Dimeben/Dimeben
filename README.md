@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dimeben
-- 👀 I’m interested in Javascript, RESTful APIs, Reacy.js
+- 👀 I’m interested in Javascript, RESTful APIs, React.js
 - 🌱 I’m currently learning how to produce a front end for my RESTful API using React.js
 - 📫 How to reach me: www.linkedin.com/in/ben-mccarthy-40812731a
 - 😄 Pronouns: he/him
