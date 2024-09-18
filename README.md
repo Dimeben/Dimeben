@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dimeben
 - 👀 I’m interested in Javascript, RESTful APIs, React.js
-- 🌱 I’m currently learning how to produce a front end for my RESTful API using React.js
+- 🌱 I’m currently building a front end app for my RESTful API using React.js
 - 📫 How to reach me: www.linkedin.com/in/ben-mccarthy-40812731a
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: When I was 18, I won my local battle of the bands, meaning I got to play at a festival!
